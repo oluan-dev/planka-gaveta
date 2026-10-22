@@ -1,0 +1,5 @@
+node_modules/
+*.log
+*-posicao.txt
+recorrentes-estado.json
+.claude/
